@@ -1,0 +1,17 @@
+# Private / report files
+structure.txt
+prepare.txt
+report.docx
+report.md
+brochure/
+
+# Office temp files
+~$*
+~WRL*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

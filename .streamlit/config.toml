@@ -1,0 +1,11 @@
+[client]
+toolbarMode = "viewer"   # ซ่อนปุ่ม Deploy / เมนูนักพัฒนา
+
+[theme]
+base = "light"           # พื้นเบจใช้กับ dark mode ไม่ได้ จึงล็อกเป็นโหมดสว่าง
+primaryColor = "#2a78d6"
+backgroundColor = "#f4ede1"
+secondaryBackgroundColor = "#e9dfcd"
+textColor = "#2b2620"
+font = "sans serif"
+baseRadius = "small"
